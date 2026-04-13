@@ -2,16 +2,13 @@
 
 ![Header](https://github.com/mark-wells-dev/.github/blob/main/assets/header.png?raw=true)
 
-**Systems Engineer | Rust | Computational Science**
+* Carefully cultivated open-source software.*
 
-PhD in Astrophysics turned Rust systems engineer. I build high-performance tools at the intersection of Computational Science and developer productivity.
+Two Wells is an independent engineering studio building high-performance tools at the intersection of computational science, AI, and developer productivity. We bring scientific rigor and deliberate craftsmanship to open-source architecture.
 
-Currently building:
-- **[OmniDSP](https://github.com/mark-wells-dev/OmniDSP):** Modular signal processing.
-- **[HedgeMaze](https://github.com/mark-wells-dev/HedgeMaze):** Schema-driven knowledge management.
-- **[Themis](https://github.com/mark-wells-dev/Themis):** CLI theme management.
+This organization is our public workshop - the permanent home for our open-source code, active development, and community discussions.
 
-I bring scientific rigor to open source architecture—when I'm not wrangling my two kids.
+** Currently on the bench: **
+* **[Catenary](https://github.com/TwoWells/Catenary/tree/main)**: Bridge between MCP and LSP.
 
----
-[🌐 markwells.dev](https://markwells.dev) | [☕ Ko-fi](https://ko-fi.com/markwellsdev)
+[twowells.dev] *(Official website under construction)* | [Support our work on Ko-fi](https://ko-fi.com/markwellsdev)
