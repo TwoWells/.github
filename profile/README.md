@@ -11,4 +11,4 @@ This organization is our public workshop - the permanent home for our open-sourc
 **Currently on the bench:**
 * **[Catenary](https://github.com/TwoWells/Catenary/tree/main)**: Bridge between MCP and LSP.
 
-twowells.dev (Official website under construction) | [Support our work on Ko-fi]([https://ko-fi.com/twowells])
+twowells.dev (Official website under construction) | [Support our work on Ko-fi](https://ko-fi.com/twowells)
