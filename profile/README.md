@@ -1,6 +1,6 @@
 # Two Wells
 
-![Header](https://github.com/mark-wells-dev/.github/blob/main/assets/header.png?raw=true)
+![Header](https://github.com/mark-wells-dev/.github/blob/main/assets/header_2.png?raw=true)
 
 **Carefully cultivated open-source software.**
 
