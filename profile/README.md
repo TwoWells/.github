@@ -9,7 +9,7 @@ Two Wells is an independent engineering studio building high-performance tools a
 This organization is our public workshop - the permanent home for our open-source code, active development, and community discussions.
 
 **Currently on the bench:**
-* **[Catenary](https://github.com/TwoWells/Catenary/tree/main)**: Enforced code intelligence.
+* **[Catenary](https://github.com/TwoWells/Catenary)**: Enforced code intelligence. _Archived October 2026 — the post-mortem is at the top of its README._
 * **[Lattice](https://github.com/TwoWells/Lattice)**: A markdown predicate linter and backlink reconciler, shipped as an LSP server.
 
 twowells.dev (Official website under construction) | [Support our work on Ko-fi](https://ko-fi.com/twowells)
